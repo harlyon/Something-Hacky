@@ -2,6 +2,23 @@
   padding: 0 2rem;
 }
 
+.home {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  /* min-height: 100vh; */
+  padding: 5rem 0;
+  font: 21px menlo;
+  width: 100%;
+}
+
+.paragraph {
+  margin: 5rem 0;
+  line-height: 1.5;
+
+}
+
 .main {
   min-height: 100vh;
   padding: 4rem 0;
